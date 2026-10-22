@@ -1,2 +1,1 @@
-# dialect-decks
-Arabic dialect study decks
+# U7-Vocab1
